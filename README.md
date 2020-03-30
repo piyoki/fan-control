@@ -6,7 +6,7 @@ You may modify the pwm value associated with the mode in the script.
 
 Check out the demo below:
 
-![]
+![](demo.png)
 
 ## How to use
 
