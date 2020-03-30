@@ -22,3 +22,4 @@ Check out the demo below:
    $ sudo scp fan.sh /etc/init.d \
    $ sudo crontab -e \
    add  @reboot /etc/init.d/startup.sh  at the very top lane
+   $ sudo reboot
