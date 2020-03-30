@@ -5,6 +5,7 @@ This fan control script has three modes 0 , 1 , 2 and its set to different value
 
 Check out the demo below:
 
+<img src="yqlbu/fan-control/demo.png" alt="demo"/> \
 
 ## How to use
 
