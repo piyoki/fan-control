@@ -8,7 +8,7 @@ Check out the demo below:
 
 ## How to use
 
-1. download the repository
+1. download the repository \
    $ git clone https://github.com/yqlbu/fan-control/
 2. redirect to the repository 
    $ cd fan-control
