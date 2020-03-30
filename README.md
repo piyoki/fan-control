@@ -1,11 +1,12 @@
 # fan-control
 
 Control the pwm fan with the change of the CPU temperature of any Jetson Desktop. 
-This fan control script has three modes 0 , 1 , 2 and its set to different value of pwm. You may modify the pwm value associated with the mode in the script.
+This fan control script has three modes 0 , 1 , 2 and its set to different value of pwm. 
+You may modify the pwm value associated with the mode in the script.
 
 Check out the demo below:
 
-<img src="yqlbu/fan-control/demo.png" alt="demo"/> \
+<img src="yqlbu/fan-control/demo.jpg" alt="demo"/> 
 
 ## How to use
 
