@@ -10,12 +10,12 @@ Check out the demo below:
 
 1. download the repository \
    $ git clone https://github.com/yqlbu/fan-control/
-2. redirect to the repository 
+2. redirect to the repository \
    $ cd fan-control
-4. open the .sh or .py file and modify the pwm value based on your preference and save
+4. open the .sh or .py file and modify the pwm value based on your preference and save \
    $ vi fan.sh 
-5. execute it automatically when the machine is booted
-   $ sudo chmod +x fan.sh
-   $ sudo scp fan.sh /etc/init.d
-   $ sudo crontab -e
+5. execute it automatically when the machine is booted \
+   $ sudo chmod +x fan.sh \
+   $ sudo scp fan.sh /etc/init.d \
+   $ sudo crontab -e \
    $ @reboot /etc/init.d/startup.sh
