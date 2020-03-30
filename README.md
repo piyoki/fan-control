@@ -6,7 +6,7 @@ You may modify the pwm value associated with the mode in the script.
 
 Check out the demo below:
 
-<img src="yqlbu/fan-control/demo.jpg" alt="demo"/> 
+<img src="https://github.com/yqlbu/fan-control/demo.png" alt="demo"/> 
 
 ## How to use
 
