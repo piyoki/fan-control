@@ -22,5 +22,5 @@ Check out the demo below:
    $ sudo chmod +x fan.sh \
    $ sudo scp fan.sh /etc/init.d \
    $ sudo crontab -e \
-   add  @reboot /etc/init.d/startup.sh  at the very top lane \
+   add  @reboot /etc/init.d/fan.sh  at the very top lane \
    $ sudo reboot
