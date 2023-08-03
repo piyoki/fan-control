@@ -12,9 +12,9 @@ while True:
     thermal = thermal / 1000
     if (thermal < 40):
         mode = 0
-	pwm = 80
+        pwm = 80
     elif (thermal >= 40 and thermal < 60):
-	mode = 1
+        mode = 1
         pwm = 150
     else:
         mode = 2
